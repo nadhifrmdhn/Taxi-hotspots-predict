@@ -1,5 +1,5 @@
 # Taxi-hotspots-predict
-This Python project was created on February 1, 2021
+This Python project was created on February 1, 2021.
 I made this project to present my final project at Asia University Online Winter Program.
 
 From my presentation report
